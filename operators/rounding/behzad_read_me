@@ -1,0 +1,5 @@
+for bit truncation version of the accurate operators,for adder, use bta and
+for multiplier use btm
+
+in btm, set hbl equal to vbl(this is the number of bits truncated)
+

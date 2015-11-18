@@ -1,0 +1,18 @@
+Frame Motion Estimation (by Muhammad Usman Karim Khan @ CES, KIT)
+Only luma frames are estimation, chroma frames are not processed.
+Build date Apr  2 2015
+64-bits on à6Á³[Linux]
+File generated on 02-04-2015 @ 02:30:41
+Input file: ../inputPics/akiyo_qcif.yuv
+Image resolution: 352x288
+Number of frames: 300
+Search window size: 32x32
+Total threads: 1
+Data written in the following format
+Frames_num Frames_time Tile_time Tile_SADs Frame_PSNR
+1	592	12804480	
+3	585	12804480	
+5	585	12804480	
+7	585	12804480	
+9	583	12804480	
+11	583	12804480	

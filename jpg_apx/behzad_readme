@@ -1,0 +1,17 @@
+run make file
+then: ./output 10   (or any other number, the higher the number the lower the quality of the picture)
+   the picture will be generated in two format. bmp, jpg. You start with a bmp file, which is fixed(lena.bmp) in
+   this code (we can change it later), and you end up with a jpg and also and output file called
+   lena_final.bmp. 
+   compare the len.bmp with the lena_final.bmp (for before and after jpeg process)
+
+
+
+
+steps required to make a file suitable for the set up:
+    changes required for the C/Cpp files.
+    break the main to the modules that their behaviour need to be evaluated
+    add the writeOutput module and provide it with the outputfile Name.
+    add comments to the portion of the C that can be approximated
+    get rid of the writeOutput to the modules that you don't need.
+

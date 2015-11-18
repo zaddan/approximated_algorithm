@@ -1,0 +1,1 @@
+g++ abc.cpp -o abc -O2 -I /home/polaris/behzad/Downloads/armadillo-6.200.2/include/ -lblas -llapack

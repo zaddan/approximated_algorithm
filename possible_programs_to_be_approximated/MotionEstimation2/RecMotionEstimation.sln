@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libRecME", "libRecME\libRecME.vcxproj", "{67C4A3F1-E8C9-4FAE-B5A8-346FC3C7F977}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestRecME", "TestRecME\TestRecME.vcxproj", "{FB0515E2-5D93-4B64-A012-C32FA5A52D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C4A3F1-E8C9-4FAE-B5A8-346FC3C7F977}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67C4A3F1-E8C9-4FAE-B5A8-346FC3C7F977}.Debug|Win32.Build.0 = Debug|Win32
+		{67C4A3F1-E8C9-4FAE-B5A8-346FC3C7F977}.Release|Win32.ActiveCfg = Release|Win32
+		{67C4A3F1-E8C9-4FAE-B5A8-346FC3C7F977}.Release|Win32.Build.0 = Release|Win32
+		{FB0515E2-5D93-4B64-A012-C32FA5A52D4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB0515E2-5D93-4B64-A012-C32FA5A52D4F}.Debug|Win32.Build.0 = Debug|Win32
+		{FB0515E2-5D93-4B64-A012-C32FA5A52D4F}.Release|Win32.ActiveCfg = Release|Win32
+		{FB0515E2-5D93-4B64-A012-C32FA5A52D4F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

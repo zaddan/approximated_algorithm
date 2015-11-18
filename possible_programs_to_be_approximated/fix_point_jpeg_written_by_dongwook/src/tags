@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Clamp	colorconvert.cpp	/^inline unsigned char Clamp(fxp_c_t i)$/;"	f
+Clamp_s	colorconvert.cpp	/^inline unsigned char Clamp_s(short i)$/;"	f
+ConvertYCrCbtoRGB	colorconvert.cpp	/^void ConvertYCrCbtoRGB(short y[64], short cb[64], short cr[64],$/;"	f
+DT	mytype.h	3;"	d
+LS	chenidct.cpp	1;"	d	file:
+MSCALE	chenidct.cpp	4;"	d	file:
+PerformIDCT	idct.cpp	/^void PerformIDCT(int outBlock[8][8], const int inBlock[8][8])$/;"	f
+RS	chenidct.cpp	2;"	d	file:
+_CHENDCT_	test_dct.cpp	2;"	d	file:
+c1d16	chenidct.cpp	/^const fxp_coeff_t c1d16 = 0.9807852804032304;$/;"	v
+c1d4	chenidct.cpp	/^const fxp_coeff_t c1d4  = 0.7071067811865476;$/;"	v
+c1d8	chenidct.cpp	/^const fxp_coeff_t c1d8   =0.9238795325112867;$/;"	v
+c3d16	chenidct.cpp	/^const fxp_coeff_t c3d16 = 0.8314696123025452;$/;"	v
+c3d8	chenidct.cpp	/^const fxp_coeff_t c3d8  = 0.38268343236508984;$/;"	v
+c5d16	chenidct.cpp	/^const fxp_coeff_t c5d16 = 0.5555702330196023;$/;"	v
+c7d16	chenidct.cpp	/^const fxp_coeff_t c7d16=  0.1950903220161283;$/;"	v
+chenidct	chenidct.cpp	/^void chenidct(int x[64],int y[64], fxp_t tmp[64])$/;"	f
+coeff	test.py	/^    coeff= cu  * math.cos( ((2*x+1) * u * math.pi) \/ 16) $/;"	v
+cu	test.py	/^      cu = 1.0;$/;"	v
+cu	test.py	/^      cu = 1.0\/1.4142135623730951$/;"	v
+fxp_c_t	mytype.h	/^typedef ap_fixed<16+2,16>  fxp_c_t;$/;"	t
+fxp_t	idct.cpp	/^typedef float fxp_t;$/;"	t	file:
+main	test_colorconvert.cpp	/^int main(int argc, char** argv)$/;"	f
+main	test_dct.cpp	/^int main(int argc, char** argv)$/;"	f
+main	test_dct_color.cpp	/^int main(int argc, char** argv)$/;"	f
