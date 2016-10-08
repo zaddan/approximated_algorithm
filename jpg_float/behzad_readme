@@ -1,0 +1,6 @@
+
+not sure why jpeg is not working correctly
+http://www.xbdev.net/image_formats/jpeg/050_dec_enc_demo/index.php
+to run:
+./simple . 10 out out2 name_of_thepic (or any other number, the higher the number the lower the quality of the picture) 
+
