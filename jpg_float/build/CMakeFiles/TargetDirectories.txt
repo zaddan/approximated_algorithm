@@ -1,3 +1,0 @@
-/home/polaris/behzad/behzad_local/approximated_algorithms/jpg/build/CMakeFiles/edit_cache.dir
-/home/polaris/behzad/behzad_local/approximated_algorithms/jpg/build/CMakeFiles/rebuild_cache.dir
-/home/polaris/behzad/behzad_local/approximated_algorithms/jpg/build/CMakeFiles/simple.dir
