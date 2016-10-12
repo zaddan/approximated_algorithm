@@ -1,0 +1,14 @@
+to build:
+make
+
+to run:
+./jpg_exe
+
+tb_jpg is the main file
+
+
+config values:
+GEN_OP; //if set we output the OPs to idct addition (operand_results.txt)
+GEN_SUM; //if set, we output the sum of the addition in idct (sum_results.txt)
+SAMPLE_SUM; // if set, we sample the sum from a sumfile (called sum_as_input.txt)and feed it into idct 
+
